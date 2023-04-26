@@ -85,4 +85,5 @@ From the `data-structures-and-algorithms/javascript` folder, execute the followi
 Note that when you check your code into GitHub, all of your tests will automatically execute. These results should match your own, and will be found on the  **Actions** tab
 
 ## Table of Contents
+<img width="925" alt="WhiteBoard1" src="https://user-images.githubusercontent.com/122309776/234454005-dbc4f982-e9f8-4122-b352-32397aed0cca.png">
 
